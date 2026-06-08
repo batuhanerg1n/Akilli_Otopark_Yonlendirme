@@ -1,0 +1,8 @@
+{
+  "name": "Otopark 3",
+  "camera_url": "http://184.69.115.194:8080/cgi-bin/viewer/video.jpg?r={}",
+  "fetch_interval": 0.5,
+  "contact_point_ratio": 0.85,
+  "lat": 35.717000,
+  "lng": 140.650000
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Liman AVM Acik Otopark",
+  "camera_url": "http://91.203.177.39:85/webcapture.jpg?command=snap&channel=1&rand={}",
+  "fetch_interval": 0.5,
+  "lat": 40.34392074371609,
+  "lng": 27.981159184274855,
+  "info": {
+    "type": "Acik Otopark",
+    "address": "17 Eylul Mahallesi Gonen Yolu Caddesi, 17 Eylul, Liman Avm Otopark No:2, 10200 Bandirma/Balikesir",
+    "capacity": 9,
+    "hours": "7/24",
+    "phone": "(0266) 717 00 00",
+    "website": "https://www.limanavm.com.tr",
+    "services": {
+      "Oto Yikama": false,
+      "Vale": false,
+      "Elektrikli Arac Sarj": true,
+      "Engelli Parki": true,
+      "7/24 Acik": true
+    }
+  }
+}

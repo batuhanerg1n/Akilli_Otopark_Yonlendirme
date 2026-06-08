@@ -1,0 +1,6 @@
+{
+  "name": "Otopark 1",
+  "camera_url": "http://89.97.231.70:8083/record/current.jpg?rand={}",
+  "fetch_interval": 0.5,
+  "contact_point_ratio": 0.85
+}

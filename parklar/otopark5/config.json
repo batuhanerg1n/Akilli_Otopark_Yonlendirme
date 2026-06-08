@@ -1,0 +1,23 @@
+{
+  "name": "Haci Yusuf Otopark",
+  "camera_url": "http://124.155.121.218:3000/webcapture.jpg?command=snap&channel=1&rand={}",
+  "fetch_interval": 0.5,
+  "lat": 40.3557075686739,
+  "lng": 27.970767239184678,
+  "info": {
+    "type": "Acik Otopark",
+    "address": "Haci Yusuf, Istiklal Cd No:10, 10200 Bandirma/Balikesir",
+    "capacity": 12,
+    "hours": "7/24",
+    "phone": "0266 000 00 00",
+    "website": "-",
+    "services": {
+      "Oto Yikama": false,
+      "Vale": false,
+      "Elektrikli Arac Sarj": false,
+      "Engelli Parki": true,
+      "7/24 Acik": true
+    }
+  }
+
+}
